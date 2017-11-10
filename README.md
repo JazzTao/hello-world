@@ -1,6 +1,5 @@
 # hello-world
 
-his is my first hello-world project.
-
+it's a llite hard for me
 
 make changes
