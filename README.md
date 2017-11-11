@@ -1,5 +1,7 @@
 # hello-world
 
-This is my first hello-world project.
-QQ
+
+it's a little hard for me
+
+make changes
 
