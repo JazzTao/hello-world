@@ -1,5 +1,5 @@
 # hello-world
 
-it's a llite hard for me
+it's a little hard for me
 
 make changes
